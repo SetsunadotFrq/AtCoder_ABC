@@ -1,0 +1,5 @@
+ABC*/*/*.out
+ABC*/*/*.exe
+ABC*/*/*.txt
+
+ABC*/*/tests/
